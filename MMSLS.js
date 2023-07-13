@@ -7,7 +7,7 @@
 =====================请在下面编辑=====================
  */
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=5390766&pid=757548a3bc2f216fd39a581fa056654c&tid=42f8afea463cd9407aec4f6005103cf9",
+    "https://www.maimemo.com/share/page?uid=5390766&pid=5057877bdd190e100a06b28093653797&tid=a318575e7b7ea21b92eb851bb72dc4f4",
 
   ]
   /**
