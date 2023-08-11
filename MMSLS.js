@@ -7,7 +7,7 @@
 =====================请在下面编辑=====================
  */
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=5390766&pid=e3ab1c316660084b9acc2809cf577603&tid=23c20467749a627750d36dbcf06a438c",
+    "https://www.maimemo.com/share/page?uid=27836443&pid=9cb33b2ec5de1c55928976a3f2ef1307&tid=6ae23e4544e31274386299d64cfb5e62",
   ]
   /**
    * 生成随机数字
