@@ -8,7 +8,7 @@
  */
 const MMSLS = [
 
-    "https://www.maimemo.com/share/page?uid=5390766&pid=a1878ee730e0a450b14dbd7344206229&tid=15d79031561f834426056ed4fcda4119"
+    "https://www.maimemo.com/share/page?uid=5390766&pid=5104099a3f33caa9d125da8a2e8f10ba&tid=60bc151c9bd54b13dce16da58e29ef47"
   ]
   /**
    * 生成随机数字
